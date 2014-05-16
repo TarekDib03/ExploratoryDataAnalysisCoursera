@@ -1,8 +1,8 @@
 maacs file for second week lectures
 ===============================
 
-This repository just contains this file, and the maacs
-dataset needed in the second week lectures;)
+This repository contains in addition to the codes for Project 1 the maacs
+dataset needed in the second week lectures
 
 ***
 To load the maacs dataset, just save it in your working directory
@@ -12,11 +12,7 @@ load("maacs.rda")
 ```
 ***
 
-
-This is not very much in the spirit of the class
-because I am not really documenting every step in
-producing maacs.rda. However, I made it by combining
-columns from:
+The maacs data set was created using the following data sets:
 
 maacs_env.rds, found at
 https://github.com/jtleek/modules/blob/master/04_ExploratoryAnalysis/PlottingLattice/maacs_env.rds
